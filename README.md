@@ -16,18 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=ImamNawawi1c&icon=10&color=1)](https://visitcount.itsvg.in)
 
 ### ✍️  Quote
-<div style="
-  background:#3c3836;
-  color:#fbf1c7;
-  padding:14px 20px;
-  border-radius:999px;
-  display:inline-block;
-  font-family:monospace;
-">
 
-Every experience is different, teaches you a new thing – good or bad – and you just take it, learn from it and move on.  
-<i>— Shai Gilgeous Alexander</i>
-</div>
 
 
 
