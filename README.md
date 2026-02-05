@@ -17,7 +17,6 @@
 
 # 🔐Quote
 
-<div style="background:#0f172a;padding:16px;border-radius:10px;color:white;max-width:600px;">
   ✨Every experience is different, teaches you a new thing - good or bad - and you just take it, learn from it and move on.  
   <br><br>
   <i>— Shai Gilgeous Alexander—<i>
