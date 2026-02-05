@@ -16,7 +16,6 @@
 [![](https://visitcount.itsvg.in/api?id=ImamNawawi1c&icon=10&color=1)](https://visitcount.itsvg.in)
 
 # 🔐Quote
-Every experience is different, teaches you a new thing-good or bad- and you just take it, learn from it and move on.
--Shai Gilgeous Alexander-
+Every experience is different, teaches you a new thing-good or bad- and you just take it, learn from it and move on. <br>-Shai Gilgeous Alexander-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
