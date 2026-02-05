@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=ImamNawawi1c&icon=10&color=1)](https://visitcount.itsvg.in)
 
 ### ✍️  Quote
-
+![](https://raw.githubusercontent.com/ImamNawawi1c/ImamNawawi1c/main/Quote.png)
 
 
 
