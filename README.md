@@ -12,8 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=ImamNawawi1c'&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ImamNawawi1c'&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ImamNawawi1c'&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
-[![](https://visitcount.itsvg.in/api?id=ImamNawawi1c&icon=10&color=1)](https://visitcount.itsvg.in)
+
+
 
 ### ✍️  Quote
 ![](https://raw.githubusercontent.com/ImamNawawi1c/ImamNawawi1c/main/Quote.png)
